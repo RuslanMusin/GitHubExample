@@ -6,7 +6,7 @@ package GitHubExample;
 public class GitHubExample {
 
     public static void main(String [] args){
-        System.out.println("Do something wrong or right!");
+        System.out.println("Do agasgasgssomething wrong or right!");
         System.out.println("Do something right");
     }
 }
