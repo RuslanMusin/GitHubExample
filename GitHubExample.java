@@ -11,6 +11,6 @@ public class GitHubExample {
         System.out.println("Do agasgasgssomething wrong or right!");
         System.out.println("Do something right");
         System.out.println("Do right things");
-        System.out.println("Do diff things");
+
     }
 }
