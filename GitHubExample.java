@@ -10,7 +10,7 @@ public class GitHubExample {
     public static void main(String [] args){
         System.out.println("Do agasgasgssomething wrong or right!");
         System.out.println("Do something right");
-        System.out.println("Do right things");
+        System.out.println("really bad stuff");
 
     }
 }
